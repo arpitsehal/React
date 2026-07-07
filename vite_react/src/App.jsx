@@ -5,6 +5,8 @@
 import Arpit from './Arpit';
 
 function App() {
+const username = "Arpit"; // This is a variable that we can use in our JSX below. We can also use expressions like 2 + 2, or even call functions here.
+
   // KEY RULE: a component can RETURN ONLY ONE parent element.
   //   return (
   //     <h1>Hello World</h1>
@@ -14,6 +16,7 @@ function App() {
   return (
     <div>
       <h1>Hello World</h1>
+      <h1>{username}</h1> {/* We can use variables in JSX by wrapping them in curly braces. */}
       {/* Reusing our imported component. We could render <Arpit /> many
           times here and it would repeat — that is the power of components. */}
       <Arpit />
