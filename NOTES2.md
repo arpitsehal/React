@@ -13,7 +13,7 @@ component is simply a **JavaScript function that returns JSX** (the HTML-like ma
 Think of components like **LEGO bricks**: you build a small brick once (`<Arpit />`),
 then snap it into bigger structures (`<App />`) as many times as you want.
 
-**Key takeaway of the video:** React apps are built by **writing small components and
+**Key takeaway:** React apps are built by **writing small components and
 nesting them inside each other**. The whole page is really one big tree of components,
 all mounted inside the single `<div id="root">`.
 
@@ -268,7 +268,7 @@ JSX looks like HTML but is really JavaScript, so a few things differ:
 
 ---
 
-## 9. Interview Questions & Answers (from this video's topics)
+## 9. Interview Questions & Answers
 
 **Q1. What is a component in React?**
 > A reusable, self-contained piece of UI — in modern React, a JavaScript function that

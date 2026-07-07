@@ -9,14 +9,14 @@ reusable pieces called **components**.
 
 You almost never write React "from scratch" in a plain HTML file. Instead you use a
 **tool/boilerplate** that sets up the project for you (folders, config, dev server,
-bundler). This video is about **two ways** to create that project:
+bundler). There are **two ways** to create that project:
 
 | Tool | My folder | Command | Bundler under the hood |
 |------|-----------|---------|------------------------|
 | **Create React App (CRA)** | `basic_react/` | `npx create-react-app my-app` | Webpack |
 | **Vite** | `vite_react/` | `npm create vite@latest` | Rollup / esbuild |
 
-**Key takeaway of the video:** CRA is the old, heavy, slow way. **Vite is the modern,
+**Key takeaway:** CRA is the old, heavy, slow way. **Vite is the modern,
 fast, recommended way.** Both give you the same React — just a different setup experience.
 
 ---
@@ -286,7 +286,7 @@ npm run preview
 
 ---
 
-## 9. Interview Questions & Answers (from this video's topics)
+## 9. Interview Questions & Answers
 
 **Q1. Is React a library or a framework?**
 > A **library** for building UIs. It focuses only on the view layer; you add routing,

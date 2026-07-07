@@ -9,8 +9,8 @@
 
 ## 0. Big Picture (read this first)
 
-React feels like magic: you write `<h1>Hi</h1>` and it shows up on the page. This
-video removes the magic by **rebuilding the core idea ourselves** in plain JavaScript —
+React feels like magic: you write `<h1>Hi</h1>` and it shows up on the page. Here we
+remove the magic by **rebuilding the core idea ourselves** in plain JavaScript —
 no library, no build tool.
 
 **The one sentence to remember:**
@@ -104,7 +104,7 @@ stripped to its bones:
 
 ## 3. The KEY lesson — why we loop over `props` instead of hard-coding them
 
-This is the exact point the video (and my code comments) drives home.
+This is the exact point my code comments drive home.
 
 **❌ The naive way — set each attribute by hand:**
 ```js
@@ -193,7 +193,7 @@ exactly *what React buys you*, and now you can describe it because you've felt i
 
 ---
 
-## 7. Interview Questions & Answers (from this video's topics)
+## 7. Interview Questions & Answers
 
 **Q1. What is a "React element"?**
 > A plain JavaScript object that describes a piece of UI, of the shape
