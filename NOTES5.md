@@ -6,7 +6,6 @@
 > Part 4 (`NOTES4.md`) → **Hooks** & `useState` (the Counter project).
 > Part 5 → **how React actually updates the screen** — Virtual DOM, Fiber, reconciliation.
 
-*(Video: "06 — Virtual DOM, Fibre and reconciliation", Chai aur React series.)*
 
 ---
 

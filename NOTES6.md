@@ -7,7 +7,6 @@
 > Part 5 (`NOTES5.md`) → **Virtual DOM, Fiber & reconciliation**.
 > Part 6 → **Tailwind CSS** (styling) + **Props** (passing data into components).
 
-*(Video: "07 — Tailwind and Props in reactjs", Chai aur React series. Built in `tailwind_props/`.)*
 
 ---
 
